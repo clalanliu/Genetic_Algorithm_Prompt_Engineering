@@ -2,6 +2,9 @@
 ## Experiment with PromptBreeder
 Check [notebook](PromptBreeder/main.ipynb)
 
+### Results:
+[plot](PromptBreeder/exp/20240629%20155920/fitness_over_iter.html)
+
 ### Obseravation:
 1. Most elites are from first order prompt generation.
 2. Generated Examples:

@@ -1,3 +1,5 @@
+import plotly.graph_objects as go
+import numpy as np
 import json
 import re
 import re
@@ -122,6 +124,59 @@ def extract_json_objects_v3(text, replace_space=False, replace_newline=False, re
     text = text.replace('False', 'false')
     text = text.replace('True', 'true')
     return json.loads(text)
+
+
+def plot_population_history(p_history, save_html_path=None, display=False):
+    x_data = {}
+    y_data = {}
+    hover_texts = {}
+
+    # Collect data for each unique ID
+    for i, p in enumerate(p_history):
+        for u in p.units:
+            if u.ID not in x_data:
+                x_data[u.ID] = []
+                y_data[u.ID] = []
+                hover_texts[u.ID] = []
+            x_data[u.ID].append(i)
+            y_data[u.ID].append(u.fitness)
+            hover_texts[u.ID].append(
+                f'ID: {u.ID}' + '<br>' + f'fitness: {u.fitness}' + '<br>' + f'method: {u.mutant_method}')
+
+    fig = go.Figure()
+
+    # Add scatter plot for each unique ID
+    for id in x_data:
+        fig.add_trace(go.Scatter(
+            x=x_data[id],
+            y=y_data[id],
+            mode='lines+markers',
+            marker=dict(size=8, color=x_data[id],
+                        colorscale='Viridis', showscale=False),
+            text=hover_texts[id],
+            hoverinfo='text',
+            name=f'ID: {id}'
+        ))
+
+    # Add line plot for elites' fitness
+    fig.add_trace(go.Scatter(
+        x=list(range(len(p_history))),
+        y=[max(p.elites, key=lambda elite: elite.fitness).fitness for p in p_history],
+        mode='lines',
+        name='Elites',
+        line=dict(color='red', width=2)
+    ))
+
+    fig.update_layout(
+        title='Fitness Over Iterations',
+        xaxis_title='Iteration',
+        yaxis_title='Fitness',
+    )
+
+    if save_html_path:
+        fig.write_html(save_html_path)
+    if display:
+        fig.show()
 
 
 if __name__ == '__main__':
