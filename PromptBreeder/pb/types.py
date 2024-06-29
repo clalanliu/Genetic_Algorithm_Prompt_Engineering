@@ -30,7 +30,7 @@ class EvolutionUnit(pydantic.BaseModel):
 
     def __str__(self):
         strs = [
-            f"{str(id(self))}"
+            f"{str(self.ID)}",
             f"T: {self.T}",
             f"M: {self.M}",
             f"P: {self.P}",
