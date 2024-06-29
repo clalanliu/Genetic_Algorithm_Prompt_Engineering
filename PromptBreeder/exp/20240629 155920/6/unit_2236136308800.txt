@@ -1,0 +1,7 @@
+2236128788320T: Try creative thinking, generate innovative and out-of-the-box ideas to solve the problem. Explore unconventional solutions, thinking beyond traditional boundaries, and encouraging imagination and originality.
+M: How would you help a student to follow the instruction?
+P: To write a descriptive passage about a person's journey to understand love, follow these steps: 1. Brainstorm ideas about what love means to you. 2. Create a vivid image in your mind that represents love. 3. Use metaphors to describe your image. 4. Tell a story about your image. 5. Revise your passage to make sure it is clear, concise, and well-written.
+fitness: 0.16049382716049382
+parent: None
+mutant method: first_order_prompt_gen
+Result: As I enter the candlelit room, I am enveloped in a sense of peace and calm. The soft light and gentle scent of the flowers create a sanctuary, a place where I can let my guard down and be myself. The tree in the center of the room is like a symbol of strength and resilience, its branches reaching up towards the sky like a prayer. As I approach the tree, I feel a surge of energy and connection, as if it is speaking to me, telling me that I am seen and understood. Love is not just a feeling, but a choice. It's a choice to open ourselves up to the world, to be vulnerable and honest, and to trust that we will be met with kindness and compassion. And as I look up at the tree, I know that I am not alone, that I am part of a larger web of love and connection that stretches out into the universe.

@@ -1,0 +1,7 @@
+2236128804784T: How can I simplify the problem so that it is easier to solve?
+M: Encourage reverse thinking: Improve the prompt by asking the user to think about the problem in reverse, starting with the solution and working backwards.
+P: Write a personal reflection or essay about the concept of love, starting with a clear thesis statement that sets the tone for the rest of the essay. Use vivid language to describe your own experiences and understanding of love, exploring different forms of love such as romantic love, familial love, and self-love. Share a personal narrative that illustrates your points and helps the reader connect with your perspective. Conclude with a lasting impression that leaves the reader thinking about the power of love.
+fitness: 0.20689655172413793
+parent: None
+mutant method: first_order_prompt_gen
+Result: As I reflect on my own experiences with love, I am reminded of the countless moments that have shaped my understanding of this complex and profound emotion. Like a warm sunbeam on a winter's day, love has illuminated the darkest corners of my heart, filling me with a sense of belonging, purpose, and belonging.

@@ -1,0 +1,7 @@
+2236128801984T: What are the key assumptions underlying this problem?
+M: Elaborate on the instruction giving some detailed advice on how to do what it wants, as if you were explaining it to a child.
+P: To understand love, choose to love someone or something every day. It's a journey, not a destination. Love is a choice, and it's not always easy. Be kind, compassionate, and willing to make sacrifices. Remember, love is a big hug that makes you feel happy and safe, but also vulnerable.
+fitness: 0.12162162162162163
+parent: None
+mutant method: first_order_prompt_gen
+Result: What a beautiful and profound message about love! You're absolutely right, love is a choice that requires effort, kindness, compassion, and willingness to make sacrifices. It's not always easy, but the rewards are well worth it. When we choose to love someone or something, we open ourselves up to a deeper connection and a sense of happiness and safety. It's like receiving a big hug that wraps us in warmth and comfort. But, as you mentioned, it also makes us vulnerable, which can be scary. However, it's in those moments of vulnerability that we can truly experience the beauty and power of love. It's a reminder that love is a journey, not a destination, and that it's the little moments and choices we make every day that add up to a lifetime of love and connection.

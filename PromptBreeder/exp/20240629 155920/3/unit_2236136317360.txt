@@ -1,0 +1,7 @@
+2236128738128T: Let's think step by step.
+M: Elaborate on the instruction giving some detailed advice on how to do what it wants, as if you were explaining it to a child.
+P: Love is a choice, a decision you make every day to care for and prioritize the people and things that matter most to you. It's not just a feeling, it's a commitment to put someone else's needs before your own, even when it's hard. It's a choice to forgive and understand, even when it's hard. And it's a choice to love yourself, even when it's hard.
+fitness: 0.029411764705882353
+parent: None
+mutant method: first_order_prompt_gen
+Result: Love is a choice, a decision you make every day to care for and prioritize the people and things that matter most to you. It's not just a feeling, it's a commitment to put someone else's needs before your own, even when it's hard. It's a choice to forgive and understand, even when it's hard. And it's a choice to love yourself, even when it's hard.

@@ -1,0 +1,7 @@
+2236128786080T: Does the problem require addressing systemic or structural issues rather than just individual instances?
+M: As a really good teacher, explain the instruction, as if you were explaining it to a child.
+P: Explore romantic love, familial love, and self-love for 10 years, and discover that love is a mix of different pieces that can be cherished and celebrated.
+fitness: 0.1111111111111111
+parent: None
+mutant method: first_order_prompt_gen
+Result: For the past 10 years, I've had the privilege of exploring the complexities and nuances of love in all its forms. Romantic love is the thrill of discovering someone new, the excitement of getting to know them, and the joy of building a life together. Familial love is the unconditional love and support that comes from our closest relatives. And self-love is the practice of loving and accepting ourselves just as we are, flaws and all. As I reflect on my journey, I've come to realize that love is a mix of different pieces that can be cherished and celebrated. It's the romantic love that brings us joy and excitement, the familial love that provides us with a sense of belonging, and the self-love that allows us to be our authentic selves.

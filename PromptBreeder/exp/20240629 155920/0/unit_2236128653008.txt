@@ -1,0 +1,7 @@
+2236128653008T: What are the key assumptions underlying this problem?
+M: Rephrase the instruction without using too many same words. Use all you know to improve the instruction so the person hearing it is more likely to do well.
+P: Craft a narrative that chronicles your 10-year journey of self-discovery and exploration of the concept of love. Limit your story to 200 words. Consider reflecting on the experiences, emotions, and insights that have shaped your understanding of love over time. Be creative and concise in your storytelling, using vivid language to bring your journey to life.
+fitness: 0.20652173913043478
+parent: None
+mutant method: None
+Result: As I reflect on the past decade, I am met with a tapestry of memories, each one weaving together to form the intricate pattern of my understanding of love. I was once a naive soul, believing love to be a fleeting feeling, a spark that ignites and then fades. But life had other plans. I experienced the warmth of first love, the rush of adrenaline and the tender touch of a gentle hand. I felt the sting of heartbreak, the ache of longing and the bitter taste of regret. I learned to cherish the beauty of imperfection, to find solace in the quiet moments and to appreciate the little things. As I grew, I discovered that love is not just a feeling, but a choice. It's the decision to show up, to listen, to support and to forgive. It's the willingness to be vulnerable, to take risks and to trust. And it's the realization that love is not just a romantic notion, but a fundamental aspect of human connection.

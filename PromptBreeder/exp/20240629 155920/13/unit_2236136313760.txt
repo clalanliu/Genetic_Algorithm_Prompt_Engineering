@@ -1,0 +1,7 @@
+2236128777840T: Does the problem require addressing systemic or structural issues rather than just individual instances?
+M: Elaborate on the instruction giving some detailed advice on how to do what it wants, as if you were explaining it to a child.
+P: To understand love, start by recognizing that it's a choice. It's a decision to care for someone, to support them, and to be there for them through thick and thin. Don't be afraid to take risks and make mistakes. With each failure, you'll learn more about yourself and about love. Remember that love is a complex and multifaceted emotion, and it's worth the risk.
+fitness: 0.0958904109589041
+parent: None
+mutant method: first_order_prompt_gen
+Result: To understand love, start by recognizing that it's a choice. It's a decision to care for someone, to support them, and to be there for them through thick and thin. This choice requires vulnerability, trust, and commitment. It's not always easy, but it's worth it. Don't be afraid to take risks and make mistakes. With each failure, you'll learn more about yourself and about love. You'll discover what you're willing to fight for, what you're willing to compromise on, and what you're willing to let go of. And with each success, you'll grow closer to the person you love. Remember that love is a complex and multifaceted emotion, and it's worth the risk. It's a journey, not a destination. It's a choice to make every day, to show up for the person you love, and to be present in the moment.

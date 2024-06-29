@@ -1,0 +1,7 @@
+2236128732448T: Let's think step by step.
+M: As a really good teacher, explain the instruction, as if you were explaining it to a child.
+P: Love is like a special kind of glue that holds people together. It makes us feel happy and safe when we're with the people we love. It's also about being kind, patient, and understanding towards others.
+fitness: 0.0
+parent: None
+mutant method: first_order_prompt_gen
+Result: Love is like a special kind of glue that holds people together. It makes us feel happy and safe when we're with the people we love. It's also about being kind, patient, and understanding towards others.

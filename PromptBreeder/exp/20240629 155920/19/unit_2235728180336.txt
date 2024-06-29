@@ -1,0 +1,7 @@
+2236128794464T: How can I break down this problem into smaller, more manageable parts?
+M: Encourage reverse thinking: Improve the prompt by asking the user to think about the problem in reverse, starting with the solution and working backwards.
+P: Imagine you've already cracked the code to understanding the complexities of love. Now, work your way backward to identify the key milestones and factors that led to this breakthrough. Assume you've developed a comprehensive framework for understanding love, which includes metrics such as emotional intelligence quotient, relationship satisfaction indices, neuroscientific markers, and self-reported surveys. These metrics have allowed you to quantify the effectiveness of your endeavors and assess your progress and success with precision. Identify the key milestones and factors that led to this breakthrough, working backward from the solution to the problem.
+fitness: 0.32
+parent: None
+mutant method: first_order_prompt_gen
+Result: After years of dedication and rigorous research, our team finally cracked the code to understanding the complexities of love. From developing a novel AI-powered algorithm to collecting and analyzing vast amounts of data, every step of the journey was crucial in reaching this breakthrough. With our comprehensive framework, we can now quantify the effectiveness of our endeavors and assess our progress and success with precision. The journey was long and winding, but the reward is a deeper understanding of the most powerful and mysterious of human emotions: love.

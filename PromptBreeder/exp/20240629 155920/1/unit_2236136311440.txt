@@ -1,0 +1,7 @@
+2236128775440T: What indicators or metrics can be used?
+M: As a really good teacher, explain the instruction, as if you were explaining it to a child.
+P: Love is when you care about someone so much that you want to make them happy, accept them for who they are, forgive them for their mistakes, and choose to be with them even when it's hard.
+fitness: 0.1320754716981132
+parent: None
+mutant method: first_order_prompt_gen
+Result: What a beautiful definition of love! It's a selfless and unconditional feeling that brings joy and fulfillment to our lives. When we love someone, we want to see them thrive and be their best selves. We accept them for who they are, flaws and all, and work to build a strong foundation of trust and understanding. We also recognize that no one is perfect, and we forgive each other for our mistakes and shortcomings. And even when things get tough, we choose to stay committed to each other, because the love we share is worth fighting for.

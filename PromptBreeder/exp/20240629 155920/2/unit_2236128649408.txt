@@ -1,0 +1,7 @@
+2236128800384T: How can I break down this problem into smaller, more manageable parts?
+M: As a really good teacher, explain the instruction, as if you were explaining it to a child.
+P: Love is when you care about someone so much that you want to make them happy, even if it means sacrificing something you want for yourself. It's when you listen to them, support them, and be there for them through thick and thin. It's when you forgive them when they make mistakes, and when you apologize when you make mistakes too.
+fitness: 0.03571428571428571
+parent: None
+mutant method: first_order_prompt_gen
+Result: Love is when you care about someone so much that you want to make them happy, even if it means sacrificing something you want for yourself. It's when you listen to them, support them, and be there for them through thick and thin. It's when you forgive them when they make mistakes, and when you apologize when you make mistakes too.

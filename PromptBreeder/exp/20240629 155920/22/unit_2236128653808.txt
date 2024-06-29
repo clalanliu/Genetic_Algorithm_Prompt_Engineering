@@ -1,0 +1,7 @@
+2236128783520T: What are the potential risks and drawbacks of the current instruction? Try to modify it
+M: How would you help a student to follow the instruction?
+P: Brainstorm ideas about a person's journey with love, craft a passage highlighting their experiences, emotions, and lessons learned, focusing on lessons learned, using sensory details, and editing and revising the passage to create a vivid and relatable story. Break down the instruction into smaller, manageable tasks, provide guiding questions for each task, offer examples or prompts to inspire creativity, encourage revision and editing, and use sensory details to bring the story to life.
+fitness: 0.12222222222222222
+parent: None
+mutant method: first_order_prompt_gen
+Result: As I sat on the beach, watching the sun set over the ocean, I couldn't help but think about the countless times I'd been hurt by love. The memories of failed relationships swirled in my mind like the waves crashing against the shore. But as I breathed in the salty air and felt the sand between my toes, I felt a sense of clarity wash over me, like the tide rising to reclaim the shore. I thought about all the times I'd compromised my own needs, all the times I'd settled for less than I deserved. And in that moment, I knew that I had to learn to love myself, to accept my own imperfections and quirks, before I could truly love someone else. I had to start putting myself first, and in doing so, I would finally be able to love someone else with the same love and care that I deserved.

@@ -1,0 +1,7 @@
+2236128772640T: What indicators or metrics can be used?
+M: How would you help a student to follow the instruction?
+P: To follow the instruction, please read the text carefully, take notes, and ask questions if you need clarification. Remember that love is a journey that requires effort, commitment, and sacrifice. It's not just a feeling, but also an action that requires patience, understanding, and empathy.
+fitness: 0.07142857142857142
+parent: None
+mutant method: first_order_prompt_gen
+Result: Love is a journey that requires effort, commitment, and sacrifice. It's not just a feeling, but also an action that demands patience, understanding, and empathy.

@@ -1,0 +1,7 @@
+2236128732448T: Let's think step by step.
+M: As a really good teacher, explain the instruction, as if you were explaining it to a child.
+P: Love is like a big, beautiful garden. It needs to be nurtured and cared for, or it can wither and die. Be patient and kind, like a gentle rain shower that brings life to the garden.
+fitness: 0.045454545454545456
+parent: None
+mutant method: first_order_prompt_gen
+Result: Love is like a big, beautiful garden. It needs to be nurtured and cared for, or it can wither and die. Be patient and kind, like a gentle rain shower that brings life to the garden.

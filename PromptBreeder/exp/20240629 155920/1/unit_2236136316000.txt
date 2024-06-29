@@ -1,0 +1,7 @@
+2236128782400T: Ignoring the current best solution, create an entirely new solution to the problem.
+M: How would you help a student to follow the instruction?
+P: Generate a story about you spent 10 years to understand love. Restrict the story in 200 words. Start by brainstorming all the experiences, emotions, and thoughts that come to mind when thinking about love. Organize these ideas into a timeline, with each event or experience representing a year of the 10-year journey to understand love. Write a short paragraph (around 20-25 words) for each year, describing the events, emotions, and insights that occurred during that year. Use vivid language and sensory details to bring the story to life, making it easy for the reader to imagine and connect with the experiences. Finally, edit and revise the story to ensure it flows smoothly and effectively conveys the message.
+fitness: 0.10909090909090909
+parent: None
+mutant method: None
+Result: I was 20, and love was a distant dream. I thought it was a fleeting feeling, a spark that would soon fade. I was wrong. I met someone, and my world was turned upside down. The rush of emotions, the butterflies in my stomach, the sense of belonging – it was intoxicating. ... I finally understood that love is not just a feeling, but a choice. It's a choice to show up, to be present, to listen, and to care. It's a choice to love myself, to love others, and to love life. I am love.

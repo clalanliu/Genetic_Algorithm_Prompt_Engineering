@@ -1,0 +1,7 @@
+2236128800384T: How can I break down this problem into smaller, more manageable parts?
+M: As a really good teacher, explain the instruction, as if you were explaining it to a child.
+P: Love is when you care about someone so much that you want to make them happy, even if it means sacrificing something you want for yourself. It's when you listen to them, support them, and be there for them through thick and thin. It's when you forgive them when they make mistakes, and when you apologize when you make mistakes too.
+fitness: 0.018867924528301886
+parent: None
+mutant method: first_order_prompt_gen
+Result: Love is a beautiful thing. It's about caring for someone so much that you want to make them happy, even if it means sacrificing something you want for yourself. It's about listening to them, supporting them, and being there for them through thick and thin. It's about forgiving them when they make mistakes, and apologizing when you make mistakes too. It's a selfless act that requires empathy, understanding, and patience. It's about being present in someone's life, even when it's hard or uncomfortable. It's about being willing to work through mistakes together, and to come out stronger on the other side.

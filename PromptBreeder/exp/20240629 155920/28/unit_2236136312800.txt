@@ -1,0 +1,17 @@
+2236128784880T: Is the problem a design challenge that requires creative solutions and innovation?
+M: Rephrase the instruction without using too many same words. Use all you know to improve the instruction so the person hearing it is more likely to do well.
+P: Write a descriptive passage about a person's journey to understand love, incorporating vivid imagery, metaphors, and a narrative that explores the complexities of love.
+fitness: 0.0
+parent: None
+mutant method: working_out_task_prompt
+Result: As she embarked on her journey to understand love, she found herself standing at the edge of a vast, starry night sky. The twinkling lights above seemed to whisper secrets to her, their gentle hum a reminder that love was a mystery waiting to be unraveled. Like a thread, she began to pull, slowly unwinding the tangled skein of emotions that had long confounded her.
+
+At first, love seemed like a warm, golden light that illuminated the path ahead. It was the gentle touch of a summer breeze on a sun-kissed day, the soft rustle of leaves in the autumn wind. But as she delved deeper, she discovered that love was also a raging storm, a tempest that threatened to consume her. It was the crashing waves of the ocean, the howling winds that shook the very foundations of her being.
+
+As she navigated the twists and turns of her journey, she encountered a cast of characters who embodied the many facets of love. There was the passionate lover, whose fiery heart burned bright like a supernova. There was the gentle caregiver, whose soothing touch was like a soft blanket on a cold winter's night. And there was the wise sage, whose words of wisdom were like a gentle rain that nourished the parched earth.
+
+But even as she learned to recognize and appreciate these different forms of love, she realized that they were not mutually exclusive. Love was a tapestry, woven from threads of passion, care, and wisdom. It was a complex, multifaceted gem that refracted light in a thousand different ways.
+
+As she gazed out at the starry night sky once more, she saw that love was not just a feeling, but a journey. It was a path that wound its way through the mountains and valleys of the human heart, a path that required courage, vulnerability, and a willingness to be transformed.
+
+And so, she continued on her journey, armed with the knowledge that love was a mystery that would forever remain just out of reach. But she knew that it was in the pursuit of this mystery that she would find her truest self, and that the love she sought would be the love that she became.
