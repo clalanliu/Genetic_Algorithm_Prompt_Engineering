@@ -126,6 +126,23 @@ def extract_json_objects_v3(text, replace_space=False, replace_newline=False, re
     return json.loads(text)
 
 
+def split_sentence(sentence, max_length):
+    words = sentence.split()
+    lines = []
+    current_line = []
+
+    for word in words:
+        if sum(len(w) for w in current_line) + len(current_line) + len(word) <= max_length:
+            current_line.append(word)
+        else:
+            lines.append(' '.join(current_line))
+            current_line = [word]
+
+    if current_line:
+        lines.append(' '.join(current_line))
+
+    return '<br>'.join(lines)
+
 def plot_population_history(p_history, save_html_path=None, display=False):
     x_data = {}
     y_data = {}
@@ -140,8 +157,8 @@ def plot_population_history(p_history, save_html_path=None, display=False):
                 hover_texts[u.ID] = []
             x_data[u.ID].append(i)
             y_data[u.ID].append(u.fitness)
-            hover_texts[u.ID].append(
-                f'ID: {u.ID}' + '<br>' + f'fitness: {u.fitness}' + '<br>' + f'method: {u.mutant_method}')
+            hover_texts[u.ID].append(split_sentence(
+                str(u).replace('\n', '<br>'), 100))
 
     fig = go.Figure()
 
